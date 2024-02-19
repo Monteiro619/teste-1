@@ -2,10 +2,10 @@
   
 <head>
   
-<title>T&iacute;tulo da p&aacute;gina</title>
+<title>Esta é minha primeira pagina</title>
 </head>
 <body>
-Essa &eacute; a minha primeira p&aacute;gina. <b>Esse texto est&aacute; em
+Esta é minha primeira pagina. <b>Esse texto est&aacute; em
 negrito.</b>
 </body>
 </html>
